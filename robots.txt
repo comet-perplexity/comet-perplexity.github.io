@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://comet-perplexity.github.io/sitemap.xml
